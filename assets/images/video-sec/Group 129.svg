@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127.969" height="187.097" viewBox="0 0 127.969 187.097">
+  <g id="Group_129" data-name="Group 129" transform="translate(-15.988 135.535) rotate(-56)">
+    <g id="Group_19" data-name="Group 19" transform="translate(0 0)">
+      <path id="Path_5" data-name="Path 5" d="M131.188,38.405S74.107-1.893,57.414,9.113s-12.66,24.579-6.605,28.8,26.23,1.834,22.01-16.509S56.678-.792,50.809.125,29.529,8.379,19.625,25.8,0,63.408,0,63.408" transform="translate(31.023)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="3"/>
+      <g id="send" transform="matrix(-0.438, 0.899, -0.899, -0.438, 43.195, 73.798)">
+        <g id="Group_18" data-name="Group 18" transform="translate(0 0)">
+          <path id="Path_6" data-name="Path 6" d="M34.05,13.236l-.012-.005L2.465.135A1.742,1.742,0,0,0,.824.295,1.822,1.822,0,0,0,0,1.817v8.375a1.774,1.774,0,0,0,1.443,1.742l17.22,3.184a.3.3,0,0,1,0,.581L1.444,18.884A1.774,1.774,0,0,0,0,20.625V29a1.742,1.742,0,0,0,.783,1.456,1.77,1.77,0,0,0,.977.3,1.815,1.815,0,0,0,.7-.143L34.036,17.589l.014-.007a2.366,2.366,0,0,0,0-4.347Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
